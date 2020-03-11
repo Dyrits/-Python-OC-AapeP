@@ -1,7 +1,7 @@
 import random
 import os
-from donnees import *
-from fonctions import *
+from data.donnees import *
+from data.fonctions import *
 
 # Le nombre de joueurs est défini. On limite cependant cela à 6:
 nombre_de_joueurs = None
