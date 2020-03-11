@@ -88,7 +88,7 @@ while fin_du_jeu == False:
         points -= 1
         print(f"\nIl vous reste {points} tour(s) pour deviner le mot.")
         if points == 0:
-            print("Cette manche est perdue !")
+            print(f"Cette manche est perdue ! Il fallait devenir {mot_cible} !")
             break
 
     # Le mot est retiré du dictionnaire :
