@@ -1,4 +1,4 @@
-## ZCASINO
+## -OPENCLASSROOMS- APPRENEZ A PROGRAMMER EN PYTHON: ZCASINO
 Le ZCASINO est une simulation de jeu de pari pour deviner un nombre aléatoire.  
 
 Le jeu, avec ses règles peu cohérentes, a été fait dans le cadre d'un exercice pour un cours suivi sur OpenClassrooms.
@@ -9,10 +9,6 @@ La roulette est constituée de 50 cases allant naturellement de 0 à 49. Les num
 Si le numéro gagnant est celui sur lequel le joueur a misé (probabilité de 1/50, plutôt faible), le croupier lui remet 3 fois la somme misée.  
 Sinon, le croupier regarde si le numéro misé par le joueur est de la même couleur que le numéro gagnant (s'ils sont tous les deux pairs ou tous les deux impairs). Si c'est le cas, le croupier lui remet 50 % de la somme misée. Si ce n'est pas le cas, le joueur perd sa mise.  
 
-### Langage de programmation :
-PYTHON 3
-> Combien de temps as-tu passé à apprendre ce langage avant de réaliser de projet ? Environ 2 semaine~
-
-### Auteur :  
-Dylan J. Gerrits
+### Statut :
+Terminé
 
