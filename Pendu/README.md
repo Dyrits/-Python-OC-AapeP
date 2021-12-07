@@ -28,7 +28,7 @@ Le jeu a été fait dans le cadre d'un exercice.
 Completed
 
 ### Features
-**Version 1.00.00 (11/03/2020)**
+**Version 1.00.00 (11/03/2020)**  
 De nouveaux mots peuvent être ajoutés dans le dictionnaire dédié en tant que clés. La valeur associée à chaque mot correspond au nombre de tentatives allouées aux joueurs pour deviner le mot (mais aussi au nombre de points qu'ils peuvent obtenir en devinant le mot).
 
 ## Contributing
