@@ -10,18 +10,10 @@ Le pendu est un jeu qui permet a plusieurs joueurs de s'affronter pour deviner d
 
 ## Table of contents
 - [Related content](#related-content)
-- [General information](#general-information)
-- [Screenshots](#screenshots)
 - [Technologies](#technologies-and-tools)
-- [Installation](#installation)
-- [Demonstration](#demonstration)
 - [Status](#status)
   - [Features](#features)
-  - [Issues](#issues)
-  - [Changelog](#changelog)
-  - [To-do](#to-do)
 - [Contributing](#contributing)
-- [Licence](#licence)
 - [Contact](#contact)
 
 ## Related content
