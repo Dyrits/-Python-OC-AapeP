@@ -17,7 +17,7 @@ Le pendu est un jeu qui permet a plusieurs joueurs de s'affronter pour deviner d
 - [Contact](#contact)
 
 ## Related content
-[OpenClassrooms](https://openclassrooms.com/) - Apprenez à programmer en Python
+[OpenClassrooms](https://openclassrooms.com/) - Apprenez à programmer en Python  
 Le jeu a été fait dans le cadre d'un exercice.
 
 ## Technologies and tools
