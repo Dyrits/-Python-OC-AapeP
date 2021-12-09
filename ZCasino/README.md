@@ -9,7 +9,7 @@ Le ZCasino est une simulation de jeu de pari pour deviner un nombre aléatoire.
 - [Contact](#contact)
 - [Technologies](#technologies-and-tools)
 - [Status](#status)
-- 
+
 ## Related content
 [OpenClassrooms](https://openclassrooms.com/) - Apprenez à programmer en Python  
 Le jeu, avec ses règles peu cohérentes, a été fait dans le cadre d'un exercice.
